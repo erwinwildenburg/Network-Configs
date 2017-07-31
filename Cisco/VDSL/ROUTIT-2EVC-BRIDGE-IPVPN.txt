@@ -66,7 +66,6 @@ multilink bundle-name authenticated
 !
 !
 !
-license udi pid C887VA-K9 sn FCZ2109118G
 !
 !
 username [USERNAME] privilege 15 secret [PASSWORD]
