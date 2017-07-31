@@ -134,7 +134,7 @@ interface Vlan10
 !
 interface Dialer1
  mtu 1492
- ip unnumbered Vlan70
+ ip unnumbered Vlan10
  no ip redirects
  no ip unreachables
  no ip proxy-arp
